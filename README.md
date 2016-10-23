@@ -23,7 +23,7 @@ make build run
 
 Point your brower at [http://localhost/admin/](http://localhost/admin/) with the username/password of admin/deadb33f .
 
-The sample dashboard is at [http://localhost/ui/](http://localhost/ui/] .
+The sample dashboard is at [http://localhost/ui/](http://localhost/ui/) .
 
 ## Included Sample node-red flow
 
